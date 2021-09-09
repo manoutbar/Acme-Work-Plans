@@ -1,0 +1,23 @@
+# i18n_es.messages
+#
+# Copyright (C) 2012-2021 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+manager.work-plan-task.list.label.title = Título
+manager.work-plan-task.list.label.executionStart = Inicio del periodo de ejecución
+manager.work-plan-task.list.label.executionEnd = Fin del periodod de ejecución
+manager.work-plan-task.list.label.isPublic = Pública
+manager.work-plan-task.list.action.add = Añadir
+manager.work-plan-task.list.action.return = Volver
+
+manager.work-plan-task.form.label.task = Tarea
+manager.work-plan-task.form.button.create = Crear
+manager.work-plan-task.form.button.delete = Borrar
+manager.work-plan-task.form.button.return = Volver
+
+manager.work-plan-task.form.error.task-in-work-plan = La tarea pertenece a un plan de trabajo
