@@ -9,3 +9,7 @@
 # they accept any liabilities with respect to them.
 
 This is the Acme-Work-Plans project.
+
+
+Project management and repo history is contained in repository:
+https://github.com/manoutbar/Acme-Planner
