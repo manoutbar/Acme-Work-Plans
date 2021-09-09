@@ -1,0 +1,42 @@
+# i18n_en.messages
+#
+# Copyright (C) 2012-2021 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+manager.work-plan.list.label.executionStart = Start
+manager.work-plan.list.label.executionEnd = End
+manager.work-plan.list.label.isPublic = Public
+
+manager.work-plan.form.label.executionStart = Start: 
+manager.work-plan.form.label.executionEnd = End:
+manager.work-plan.form.label.isPublic = Public:
+		
+manager.work-plan.form.button.update = Update
+manager.work-plan.form.button.delete = Delete
+manager.work-plan.form.button.publish = Publish
+manager.work-plan.form.button.create = Create
+manager.work-plan.form.button.return = Return
+
+manager.task.form.label.title = Title
+manager.task.form.label.public = Public
+manager.task.form.label.execution-start = Execution Start
+manager.task.form.label.execution-end = Execution End
+manager.task.form.label.workload = Workload
+manager.task.form.label.link = Info
+manager.task.form.label.description = Description
+manager.task.form.button.create = Create
+manager.task.form.button.update = Update
+manager.task.form.button.delete = Delete
+manager.task.form.button.return = Return
+
+manager.task.form.error.execution-start-past = Start date doesn't be before today
+manager.task.form.error.execution-end-before-start = End date must be after start date
+manager.task.form.error.workload-positive = Workload must be a positive number
+manager.task.form.error.workload-invalid-decimal-part = Workload must have the decimal part between 0 and 59 (minutes)
+manager.task.form.error.workload-greater-than-execution-period = Workload cannot be greater than execution period
+manager.task.form.error.workload-less-than-execution-period = Workload cannot be greater than execution period

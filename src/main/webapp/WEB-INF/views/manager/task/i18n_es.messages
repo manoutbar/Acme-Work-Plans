@@ -1,0 +1,41 @@
+# i18n_es.messages
+#
+# Copyright (C) 2012-2021 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+manager.work-plan.list.label.executionStart = Inicio
+manager.work-plan.list.label.executionEnd = Final
+manager.work-plan.list.label.isPublic = Publico
+manager.work-plan.form.label.executionStart = Inicio: 
+manager.work-plan..form.label.executionEnd = Final:
+manager.work-plan.form.label.isPublic = Publico:
+		
+manager.work-plan.form.button.update = Actualizar
+manager.work-plan.form.button.delete = Borrar
+manager.work-plan.form.button.publish = Publicar
+manager.work-plan.form.button.create = Crear
+manager.work-plan.form.button.return = Volver
+
+manager.task.form.label.title = Título
+manager.task.form.label.public = Público
+manager.task.form.label.execution-start = Inicio
+manager.task.form.label.execution-end = Final
+manager.task.form.label.workload = Carga de trabajo
+manager.task.form.label.link = Información
+manager.task.form.label.description = Descripción
+manager.task.form.button.create = Crear
+manager.task.form.button.update = Actualizar
+manager.task.form.button.delete = Borrar
+manager.task.form.button.return = Volver
+
+manager.task.form.error.execution-start-past = La fecha de inicio no puede ser anterior a la actual
+manager.task.form.error.execution-end-before-start = La fecha de fin no puede ser anterior a la de inicio
+manager.task.form.error.workload-positive = La carga de trabajo debe ser un número positivo
+manager.task.form.error.workload-invalid-decimal-part = La carga de trabajo debe contener decimales entre 0 y 59 (minutos)
+manager.task.form.error.workload-greater-than-execution-period = La carga de trabajo no puede ser mayor que el periodo de ejecución
+manager.task.form.error.workload-less-than-execution-period = La carga de trabajo no puede ser mayor que el periodo de ejecución
